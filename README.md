@@ -1,4 +1,6 @@
-# EdgeSight Watchdog: A simple binary to monitor a directory for new files and move them to a different directory
+# EdgeSight Watchdog
+
+**A simple binary to monitor a directory for new files and move them to a different directory.**
 
 ## Usage
 
