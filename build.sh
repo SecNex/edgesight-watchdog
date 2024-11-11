@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NAME="edgesight-watchdog"
+NAME="viexly-watchdog"
 
 # Build the project for windows (x64), linux (arm64, x64) and macos (arm64, x64)
 echo "Building the project for windows (x64), linux (arm64, x64) and macos (arm64, x64)..."

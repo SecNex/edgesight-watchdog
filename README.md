@@ -1,4 +1,4 @@
-# EdgeSight Watchdog
+# Viexly Watchdog
 
 **A simple binary to monitor a directory for new files and move them to a different directory.**
 
